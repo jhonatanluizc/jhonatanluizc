@@ -1,12 +1,11 @@
-### Olá 👋
-### Eu sou jhonatan luiz
-### Analista de Desenvolvimento de Sistemas
-### https://jhonatanluizc.github.io/
-### https://jhonatanluizc.github.io/jhonatan/
+### Olá 👋  
+### Eu sou Jhonatan Luiz  
+### Analista de Desenvolvimento de Sistemas  
+### [Portfólio](https://jhonatanluizc.github.io/portfolio/)  
 ##
-### Eu gosto de programar!
-### Novas tecnologias estão surgindo a cada dia, e isso é muito legal, é um desafio nos manter atualizado e eu gosto disso!
-### A tecnologia abre muitas novas possíbilidades de nos reinventar e de fazer algo novo!
+### Eu gosto de programar!  
+### Novas tecnologias estão surgindo a cada dia, e isso é muito legal, é um desafio nos manter atualizado e eu gosto disso!  
+### A tecnologia abre muitas novas possibilidades de nos reinventar e de fazer algo novo!  
 ##
 
 <a href="https://github.com/jhonatanluizc">
