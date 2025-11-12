@@ -1,12 +1,12 @@
-### Olá 👋  
-### Eu sou Jhonatan Luiz  
-### Analista de Desenvolvimento de Sistemas  
-### [Portfólio](https://jhonatanluizc.github.io/portfolio/)  
-##
-### Eu gosto de programar!  
-### Novas tecnologias estão surgindo a cada dia, e isso é muito legal, é um desafio nos manter atualizado e eu gosto disso!  
-### A tecnologia abre muitas novas possibilidades de nos reinventar e de fazer algo novo!  
-##
+### Hello 👋  
+### I'm Jhonatan Luiz  
+### Systems Development Analyst  
+### [Portfolio](https://jhonatanluizc.github.io/portfolio/)  
+&nbsp;
+### I love programming!  
+### New technologies are emerging every day, and that's very exciting! It's a challenge to stay up to date, and I enjoy it!  
+### Technology opens up endless possibilities to reinvent ourselves and create something new!  
+&nbsp;
 
 <a href="https://github.com/jhonatanluizc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanluizc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
