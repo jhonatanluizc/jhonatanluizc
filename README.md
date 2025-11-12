@@ -1,13 +1,12 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-<div align="center">
+<h1>Hey 👋 What's Up?</h1>
+<div>
   <b>I'm Jhonatan Luiz, a Systems Development Analyst</b>
   <p>I love programming! Keeping up with new technologies motivates me every day. Technology opens endless paths to create, reinvent, and solve real problems.</p>
 </div>
 
 ###
 
-<div align="center">
+<div>
   <a href="https://jhonatanluizc.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-22272E?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Portfolio"  />
   </a>
@@ -41,13 +40,3 @@
   <img src="https://streak-stats.demolab.com?user=jhonatanluizc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=jhonatanluizc&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonatanluizc/jhonatanluizc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonatanluizc/jhonatanluizc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jhonatanluizc/jhonatanluizc/output/pacman-contribution-graph.svg">
-</picture>
-
-###
