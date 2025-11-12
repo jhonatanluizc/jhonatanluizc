@@ -21,7 +21,7 @@
   <br/><br/>
 
   <!-- Languages and Tools -->
-  <h2>Languages and Tools</h2>
+  <h1>Languages and Tools</h1>
 
   <img src="https://skillicons.dev/icons?i=androidstudio,css,cs,html,js,nodejs,npm,react,vue" height="60" />
 
