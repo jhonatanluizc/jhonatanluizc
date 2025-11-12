@@ -12,6 +12,8 @@
 </a>
 
 ###
+
+<div align="center">
 <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&duration=7500&pause=750&color=F7F7F7&width=435&lines=Languages+and+Tools+%F0%9F%9B%A0+"/></h1>
 <img src="https://skillicons.dev/icons?i=androidstudio,css,cs,html,js,nodejs,npm,react,vue" height="60" />
 
@@ -20,3 +22,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanluizc&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=jhonatanluizc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" />
 </a>
+</div>
