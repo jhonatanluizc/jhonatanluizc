@@ -18,6 +18,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn logo" />
   </a>
 
+  <img height="180em" src="https://streak-stats.demolab.com?user=jhonatanluizc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" />
+
   <br/><br/>
 
   <!-- Languages and Tools -->
@@ -51,7 +53,6 @@
     <a href="https://github.com/jhonatanluizc">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanluizc&show_icons=true&theme=dracula" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanluizc&layout=compact&langs_count=7&theme=dracula" />
-      <img height="180em" src="https://streak-stats.demolab.com?user=jhonatanluizc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" />
     </a>
   </div>
 
