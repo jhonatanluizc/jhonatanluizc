@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hey 👋 What's Up?</h1>
-  <h3>I'm <b>Jhonatan Luiz</b>, a <b>Systems Development Analyst</b></h3>
+  <h3>I'm <b>Jhonatan Luiz</b>, a <b>Software Engineer</b></h3>
 
   <p align="center" style="max-width:600px; font-size:16px; line-height:1.6;">
     I love programming! Keeping up with new technologies motivates me every day. <br/>
