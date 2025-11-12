@@ -19,7 +19,6 @@
   </a>
 
   <br/><br/>
-  <hr style="width:60%; border:0.5px solid #555;"/>
 
   <!-- Languages and Tools -->
   <h2>
@@ -29,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,css,cs,html,js,nodejs,npm,react,vue" height="60" />
 
   <br/><br/>
-  <hr style="width:60%; border:0.5px solid #555;"/>
 
   <!-- GitHub Stats -->
   <div>
