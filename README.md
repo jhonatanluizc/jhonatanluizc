@@ -9,6 +9,6 @@
 &nbsp;
 
 <a href="https://github.com/jhonatanluizc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanluizc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://img.shields.io/github/followers/jhonatanluizc?label=Followers&style=social" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanluizc&layout=compact&langs_count=7&theme=dracula"/>
 </a>
