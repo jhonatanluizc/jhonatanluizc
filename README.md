@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn logo" />
   </a>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=jhonatanluizc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" />
+  <div><img height="180em" src="https://streak-stats.demolab.com?user=jhonatanluizc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" /></div>
 
   <br/><br/>
 
